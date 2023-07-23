@@ -1,0 +1,31 @@
+Function 1:
+
+ Input : 
+All female employee details
+
+ Result : 
+Emily Johnson    Female    EMP002              HR Manager                     8 years              $90,000
+Sarah Lee        Female    EMP004            Marketing Specialist             4 years              $65,000
+Lisa Adams       Female    EMP006            Financial Analyst                2 years              $55,000
+Jennifer White   Female    EMP008            IT Technician                     1 year              $50,000
+Olivia Green     Female    EMP010            Data Analyst                     3 years              $60,000
+
+
+ Function 2:
+ Input : 
+sum of all female Employee Salary with explanation?
+
+ Result : 
+To find the sum of all female employee salaries, we need to add up the salaries of Emily Johnson, Sarah Lee, Lisa Adams, Jennifer White, and Olivia Green.
+
+Emily Johnson's salary is $90,000.
+Sarah Lee's salary is $65,000.
+Lisa Adams's salary is $55,000.
+Jennifer White's salary is $50,000.
+Olivia Green's salary is $60,000.
+
+Adding up these salaries:
+
+$90,000 + $65,000 + $55,000 + $50,000 + $60,000 = $320,000
+
+Therefore, the sum of all female employee salaries is $320,000.

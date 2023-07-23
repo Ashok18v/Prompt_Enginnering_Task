@@ -1,0 +1,11 @@
+Employee Name    Gender    Employee ID       Employee Designation         Employee Experience    Employee Salary
+John Smith        Male       EMP001            Software Engineer                5 years              $75,000
+Emily Johnson    Female      EMP002              HR Manager                     8 years              $90,000
+Michael Brown     Male       EMP003            Sales Representative             3 years              $60,000
+Sarah Lee        Female      EMP004            Marketing Specialist             4 years              $65,000
+David Chen        Male       EMP005            Product Manager                  6 years              $80,000
+Lisa Adams       Female      EMP006            Financial Analyst                2 years              $55,000
+Robert Taylor     Male       EMP007            Operations Manager               7 years              $85,000
+Jennifer White   Female      EMP008            IT Technician                    1 year               $50,000
+William Clark     Male       EMP009            Customer Support                 4 years              $65,000
+Olivia Green     Female      EMP010            Data Analyst                     3 years              $60,000
